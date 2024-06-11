@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'maryly';
+    src: url(/Assets/font/KaushanScript-Regular.otf);
+}
+
+body{
+    font-family: 'maryly';
+}
+
+#bloc_uno{
+    background-color: rgb(75, 142, 196);
+    width: 30%
+}
